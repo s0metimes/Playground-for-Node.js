@@ -1,4 +1,5 @@
 var net = require('net');
+var fs = require('fs');
 
 // 새로운 TCP 혹은 IPC 서버 생성
 // 주의 : 소켓을 만드는 것이 아니다. 소켓을 감싸 언제든 상대편 소켓을 받을 수 있는 서버를 만드는 것이다.
@@ -21,6 +22,7 @@ var server = net.createServer( function(client) {
         console.log('client: ' + data);
     });
 
+    // 터미널에서 input 받아오는 것.
     process.stdin.on('readable', function() {
         var chunk = process.stdin.read();
         if( chunk !== null ) {
