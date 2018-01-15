@@ -52,3 +52,7 @@ node.js 의 net 모듈에서는 IPC 기능을 제공합니다.
 -   SYN : 통신 시작 시 연결을 요청하고 ISN을 교환한다.
 
 이 외에도 많은 플래그들이 있다. 확인하고 추가바람.
+
+#### 참고 사이트
+
+-   TCP/IP 스터디 : <https://www.slideshare.net/skytear7/tcpip-28415220>
