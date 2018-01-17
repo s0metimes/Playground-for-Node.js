@@ -9,6 +9,7 @@
 var fs = require('fs');
 // 한줄씩 읽어올 때 쓰는 모듈.
 var readline = require('readline');
+var logger = require('/Users/sihwan/Documents/PLAYGROUND/NODEJS/log/logger');
 
 /*
     파일에서 한줄씩 읽어옵니다.
@@ -25,12 +26,14 @@ function processFileByLines(fileName) {
     // 읽어왔을 때의 이벤트 처리.
     reader.on('line', function(line) {
         console.log('라인 ' + (count+1) + ' : ' + line + '\n');
+        logger.info('라인 ' + (count+1) + ' : ' + line + '\n');
         count++;
     });
 
     // reader 가 모두 읽어들이고 닫혔을 때의 이벤트 처리.
     reader.on('close', function() {
         console.log('모든 라인 출력 완료했습니다.');
+        logger.debug('모든 라인 출력 완료했습니다.');
     });
 }
 
