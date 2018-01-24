@@ -1,22 +1,25 @@
+// 클라이언트
 var net = require('net');
-
 // net.Socket 을 만든다. 만들고 해당 포트에 연결시킨다.
-var client = net.createConnection({ port:8124 }, function() {
+var server = net.createConnection({ port:8124 }, function() {
     console.log('connected to server!');
 });
 
-process.stdin.on('readable', function() {
-    var chunk = process.stdin.read();
-    if (chunk !== null) {
-        client.write(chunk.toString().substring(0, chunk.toString().length - 1));
-    }
+// server 로부터 data 가 write 됐을 때
+server.onI('data', function(data) {
+    console.log('server: ' + data.toString().trim());
 });
 
-// data 를 받았을 때 실행됨.
-client.on('data', function(data) {
-    console.log('server: ' + data.toString());
-});
-
-client.on('end', function() {
+// 서버가 connection 을 종료했을 때
+server.on('end', function() {
     console.log('disconnected from server');
+});
+
+// 콘솔에 입력(stdin) 했을 때
+process.stdin.on('readable', function() {
+    var data = process.stdin.read();
+    if (data !== null) {
+        // 서버로 data write 하기
+        server.write(data.toString());
+    }
 });
