@@ -1,0 +1,182 @@
+company_name: Korea-Institute-of-Startup-&-Entrepreneurship-Development(KISED)-at-4YFN
+company_name: KYUNGPOOK-NAT’L-UNIVERSITY-SMART-VENTURE-CAMPUS
+company_name: KYUNGPOOK-NATIONAL-UNIVERSITY-–-CREATIVE-FACTORY
+company_name: GOQUAL-Inc, phone: +82 1022309200, site: http://www.goqual.com
+company_name: FARMSKIN, phone: +82 1062943142, site: http://www.farmskincosmetic.com
+company_name: KAONMEDIA, phone: +82 317248712, site: http://www.kaonmedia.com
+company_name: Mavlux, site: http://www.mavlux.com
+company_name: KAIT(Korea-Association-for-ICT-Promotion), phone: +82 10-2388-6382, site: http://www.kait.or.kr
+company_name: GLS-Co-Ltd, phone: +82 429368976, site: http://www.zinggls.com
+company_name: Swan-Electronics-Co-Ltd, phone: +82 7041472462, site: http://www.swanelectronics.com
+company_name: KISED-(SEOUL-CCEI)
+company_name: TwoEyes-Tech-Inc, phone: +82 7088241029, site: http://www.vuo360.com
+company_name: DoubleMe-Inc, phone: +82 1052295083, site: http://www.doubleme.me
+company_name: NARU-STUDIO-Inc, phone: +82 1049033636, site: http://www.narustudio.com
+company_name: Medicore-Co-Ltd, site: http://www.medicorehealthcare.co.kr
+company_name: Lineable-Inc, site: http://www.lineable.net
+company_name: Ufirst-Inc, phone: +82 1064040099, site: http://www.theufirst.com
+company_name: Unito-Entertainment-co-Ltd, phone: +82 269251546, site: http://www.unito-ent.com
+company_name: Fairip, phone: +82 1084132220, site: https://www.tjvs.co.kr/
+company_name: LEEDEYEON-INC, phone: +82 1087729871, site: http://www.leedeyeon.com
+company_name: YOLK, phone: +82 1026809085, site: http://www.yolkstation.com
+company_name: Inspower-Co-Ltd, phone: +82 220832931, site: http://www.inspower.co.kr
+company_name: LiBEST-Inc, phone: +82 1074380304, site: http://www.libest.co.kr
+company_name: Suprema-Inc, phone: +82 317102465, site: https://www.supremainc.com/en
+company_name: Kisan-Telecom-Co-Ltd
+company_name: Ace-Technologies-Corp, site: http://www.acetech.co.kr/eng/main/index.asp
+company_name: MUST-Games, site: https://www.facebook.com/MUSTGamesRogueUniverse/
+company_name: JUNGGAM-Co-Ltd, phone: +82 27205514, site: http://www.onia8.com
+company_name: MOBILEDOCTOR-CO-LTD, phone: +82 1089565305, site: http://www.fevercoach.net
+company_name: J&C-GLOBAL-CO-LTD, phone: +82 328730238, site: http://www.alphado.co.kr
+company_name: MANGOALSB-Co-Ltd, phone: +82 317540625, site: silver@mangoslab.com
+company_name: TWOUZ-Inc, phone: +82 7082792988, site: http://www.2uz.co.kr
+company_name: Lingerwater
+company_name: Tangram-Factory-Inc, phone: +82 1084556822, site: http://www.tangramfactory.com
+company_name: KOTRA, site: http://www.kotra.or.kr
+company_name: Magpie-Tech, phone: +82 1044081485, site: http://www.magpie-tech.com
+company_name: MINDs-Lab-Inc, phone: +82 316254340, site: http://mindslab.ai
+company_name: LUXROBO-co-ltd
+company_name: ulalaLAB, phone: +82 1032901610, site: http://www.wimfactory.com
+company_name: WISEnut-Inc, phone: +82 234046100, site: http://en.wisenut.com
+company_name: TELEPASEE, phone: +82 1071628038, site: http://www.telepasee.com
+company_name: IRISYS-Co-Ltd, phone: +82 7051024798, site: http://www.irisys.co.kr
+company_name: KT
+company_name: DICA-(Daejeon-Information-&-Culture-Industry-Promotion-Agency)
+company_name: LINKFLOW, phone: +82 1097997951, site: http://www.linkflow.co.kr
+company_name: VisualCamp, site: http://www.visual.camp
+company_name: VUiDEAINC, site: http://www.vuidea.com
+company_name: Juni-Korea-Co-Ltd, site: http://www.juniglobal.com/
+company_name: BIPA-[Busan-IT-Industry-Promotion-Agency], phone: +82 517499456, site: http://www.busanit.or.kr
+company_name: SMARF, phone: +82 1048734566, site: https://www.smarf.kr
+company_name: BusinessOn-Communication, phone: +82 25590853, site: http://www.smartbill.co.kr
+company_name: AMO-Lab
+company_name: POWERVOICE-Co-Ltd, phone: +82 15440642, site: http://www.kpvoice.com
+company_name: Sigma-Delta-Technologies-Inc, phone: +82 328155305, site: http://sigdeltec.com
+company_name: Bisecu, phone: +82 1066362212, site: http://www.bisecu.com
+company_name: Nesslab, site: http://www.nesslab.com
+company_name: PAYCOQ-at-4YFN, site: http://www.paycoq.com
+company_name: BIOSMART-CO-LTD, phone: +82 232189043, site: http://www.metal-credit.com
+company_name: Buzzvil, site: http://www.buzzvil.com
+company_name: CGTECH-CO-LTD, phone: +82 316867697, site: cgtech.co@gmail.com
+company_name: Omnisystem-Co-Ltd, phone: +82 24187550, site: http://www.omnisystem.co.kr
+company_name: Apposter-Inc, phone: +82 25380333, site: http://www.apposter.com
+company_name: BLUEWAVETE-CO-Ltd, site: http://www.bluewavetel.com
+company_name: AIRSOUND-INC, phone: +82 428268400, site: http://www.mypin.biz
+company_name: Point-Mobile-Co-Ltd, phone: +82 1025926270, site: http://www.pointmobile.co.kr
+company_name: Daegu-Technopark-(Mobile-Technology-Convergence-Center)
+company_name: CARET-GAMES-Inc
+company_name: 8beat-Co-Ltd, site: http://www.8beat.co
+company_name: SEONTECH
+company_name: PAYCOQ, site: http://www.paycoq.com
+company_name: Maxst-co-ltd, phone: +82 25859566, site: http://www.maxst.com
+company_name: Green-Optics-Co-Ltd, phone: +82 432132183, site: http://www.greenoptics.com
+company_name: SOLiD-Inc
+company_name: RFM-Wireless-Co-Ltd
+company_name: FAKE-EYES-CO-LTD, phone: +82 7049108013, site: http://www.fakeeyes.co.kr
+company_name: BONABANK-CO-Ltd, phone: +82 43009361, site: http://www.bonabank.com
+company_name: HANDYSOFT-Inc
+company_name: Anipen-Inc, phone: +82 312610057, site: http://www.anipen.com
+company_name: Smartventure-Campus, phone: +82 1047137128, site: http://omnisvc.org/
+company_name: Solmitech-Co-Ltd, phone: +82 7075589877, site: http://www.solmitech.com
+company_name: Y-Tech-Co-Ltd, phone: +82 317898103, site: http://twoelec.com
+company_name: CLAIR-Inc
+company_name: Daliworks-Inc, phone: +82 222743251, site: https://thingplus.net/en/
+company_name: EC3-co-ltd
+company_name: analogue-plus-Co-Ltd, phone: +82 7088706552, site: http://www.analogue-plus.com
+company_name: baro, phone: +82 1022594071, site: http://barocorp.com
+company_name: Qucell, site: http://www.qucell.com
+company_name: Stealth-Solution-CoLtd, phone: +82 3180173478, site: http://www.stealthsolution.co.kr
+company_name: RIDUS
+company_name: PTech-Co, phone: +82 1040517344, site: http://www.p-tech.co.kr
+company_name: SK-Telecom
+company_name: DASAN-Zhone-Solutions, phone: +82 7070101360, site: http://www.dasanzhone.com
+company_name: BEACONYX-Inc, phone: +82 25855152, site: http://www.beaconyx.com
+company_name: SK-hynix-Inc, site: http://www.skhynix.com
+company_name: Small&medium-Business-Corporation-Youth-Startup-Academy, phone: +82 1065542850, site: http://start.sbc.or.kr
+company_name: Contela-Inc, phone: +82 317103212, site: http://www.contela.com
+company_name: PHYCHIPS-Inc, phone: +82 428642402, site: http://www.phychips.com
+company_name: ONESOFTDIGM-CO-LTD, phone: +82 1090450879, site: http://onesoftdigm.com/EN/
+company_name: CrucialTec-Co-LTD, phone: +82 3180603000, site: http://www.crucialtec.com
+company_name: Gwangju-Information-and-Culture-Industry-Promotion-Agency, phone: +82 623509342, site: http://www.gitct.or.kr
+company_name: GCCEI-(Gyeonggi-Center-for-Creative-Economic-Innovation), site: http://www.startupkorea.com
+company_name: Samsung-Electronics-Networks
+company_name: SANCHEONG-CO-LTD, phone: +82 3151839157, site: http://www.sancheong.com
+company_name: Monster-STUDIO, site: http://www.facebook.com/monsteradstudio
+company_name: CORESIGHT-Co-LTD, phone: +82 1025160228, site: http://www.coresight.io
+company_name: abenecel-Inc
+company_name: E-tech, phone: +82 24790524, site: http://www.kidseye.net
+company_name: KISED, phone: +82 1023879731, site: http://www.kised.or.kr
+company_name: Samsung-Electronics-Co-Ltd-(IM-Division)
+company_name: Bamhaneul-Geurimjari-Ltd, phone: +82 7049051055, site: http://www.bamhaneul.com
+company_name: ZIPDOC-Inc
+company_name: Smart-Content-Pavilion, phone: +82 439315634, site: http://www.nipa.kr
+company_name: STARs-tech-Co-Ltd, phone: +82 1067377553, site: http://www.starstech.co.kr
+company_name: COBL
+company_name: OctatcO-Co-Ltd
+company_name: PTINSIGHT, phone: +82 7048146668, site: http://zamizemi.com
+company_name: 111
+company_name: AMOSENSE-Co-Ltd, phone: +82 1091326533, site: http://www.amosense.co.kr
+company_name: WEARABLE-HEALTHCARE-INC, phone: +82 3180655632, site: http://www.ruawalk.com
+company_name: CleverLogic
+company_name: ACEWAVETECH-CO-LTD, phone: +82 328310401, site: http://acewavetech.com/
+company_name: HoloDigilog-Human-Media-Research-Center-(HoloDigilog)
+company_name: Fourthlink-Inc
+company_name: INNOWIRELESS
+company_name: Hancom-Interfree-Inc
+company_name: GCI-Inc
+company_name: BrilliantTS, phone: +82 316061100, site: http://www.brilliantts.com
+company_name: iSharingSoft-Co-Ltd, phone: +82 1067864111, site: http://www.isharingsoft.com
+company_name: KRF-Co-Ltd
+company_name: ETRI-(Electronics-and-Telecommunications-Research-Institute)
+company_name: Access-Mobile-Co-Ltd, phone: +82 262045791, site: http://www.mobithru.com/
+company_name: GPTree-Inc, phone: +82 7049468101, site: http://gptree.com
+company_name: asvals-Ltd, phone: +82 707077097, site: http://www.asvals.com
+company_name: Smarthan-Co-Ltd, phone: +82 1027203258, site: http://www.smart-han.com
+company_name: EMW-Co-Ltd, phone: +82 221075621, site: http://www.emw.co.kr
+company_name: Haesung-Optics-Co-Ltd
+company_name: TAEYANG-I-S-CO-LTD, phone: +82 24913388, site: http://www.taeyangis.com
+company_name: PARKELICT, phone: +82 315481193, site: http://www.ice.re.kr
+company_name: Norma-Inc
+company_name: Incheon-Business-Industry-Technopark, phone: +82 327149810, site: http://www.ibitp.or.kr
+company_name: Hancom-MDS-Inc, phone: +82 316273000, site: http://eng.hancommds.com
+company_name: KDLAB-Inc
+company_name: Ncube, phone: +82 1026693099, site: http://www.ncubeworld.net
+company_name: Hancom-Inc
+company_name: Cloudike-Inc, phone: +82 1041663868, site: http://www.cloudike.com
+company_name: SMART-WELLNESS, phone: +82 1027289296, site: http://cubroid.com
+company_name: Gamma-Nu-Inc, phone: +82 318318800~7Ext.301, site: http://www.gammanu.com
+company_name: Everspin, phone: +82 221356239, site: http://www.everspin.tech
+company_name: Airbroad, site: http://www.airbroad.com
+company_name: VIRFIT-Corp, phone: +82 23360103, site: http://www.vhoop.net
+company_name: Spacosa-Corporation, phone: +82 7043692269, site: http://www.spacosa.com
+company_name: H&BiT-CO-LTD
+company_name: SECOND-GROUND-Inc, phone: +82 1053223525, site: http://www.bacving.com
+company_name: RaonSecure
+company_name: INNOPOLIS-Foundation, site: https://www.innopolis.or.kr/eng/
+company_name: EUCAST, phone: +82 1064354776, site: http://www.eu-cast.com
+company_name: Exosphere-Inc, phone: +82 262043211, site: http://www.exospheresecurity.com
+company_name: MINT-ROBOT
+company_name: Graphene-Square-Inc, phone: +82 28806569, site: http://www.graphenesq.com
+company_name: KOMACHINE, phone: +82 1082187270, site: http://www.komachine.com
+company_name: HOBB, phone: +82 1052129514, site: http://www.futurehobb.com
+company_name: Magconn-Inc, site: http://www.magconn.net
+company_name: YOO-KYOUNG-CO-LTD, phone: +82 1099903880, site: http://www.yookyoung.com
+company_name: Cubroid-Inc, phone: +82 1027289296, site: http://cubroid.ai
+company_name: Innertron-Inc, phone: +82 1048406931, site: http://www.innertron.com
+company_name: Hidden-Track-Co-Ltd, phone: +82 29291365, site: https://linder.kr/
+company_name: iPlateia, phone: +82 262132040, site: http://www.iplateia.com
+company_name: Letinar-Co-Ltd, phone: +82 1050204223, site: https://letinar.com
+company_name: INFOMARK-Co-Ltd, phone: +82 7086713330, site: http://www.infomark.co.kr
+company_name: InnoPlayLab, phone: +82 1027967223, site: http://www.ipl.global/
+company_name: Green-Power-Electronics-Co-Ltd, phone: +82 28655140, site: http://www.gpel.com
+company_name: Omni-C&S-Inc, phone: +82 7049919721, site: http://www.omnicns.com/en/index.html
+company_name: LG-Electronics-Mobile-Communications-Company, phone: +82 237771114, site: http://www.lge.com
+company_name: Fieldsolution-Co-Ltd, phone: +82 1051635138, site: http://www.fieldsol.com
+company_name: Korea-ICT-Association-(KICTA), phone: +82 22650462, site: http://www.koreaict.kr
+company_name: SOS-Lab-Co-Ltd, phone: +82 629735051, site: http://soslab.co
+company_name: INNOPIA-Technologies-Inc, site: http://www.innopia.co.kr/en/
+company_name: Yeon-Systems, phone: +82 222011064, site: http://yeonsystems.com
+company_name: WEVERCOMM-CO-LTD, phone: +82 1041585669, site: http://WWW.WEVERCOMM.COM
+company_name: National-IT-Industry-Promotion-Agency(NIPA), site: http://www.nipa.kr/en
+company_name: Nasmedia, phone: +82 1094499199, site: http://mobile.nasmedia.co.kr/
+company_name: RSUPPORT-Co-LTD, phone: +82 7070110881, site: http://www.rsupport.com
