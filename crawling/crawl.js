@@ -1,67 +1,36 @@
+/**
+ * Last updated 2018.02.08...
+ * Published by s0metimes (Sihwan Oh)
+ * 안녕.
+ */
+
+/*
+    module loads
+*/
 var request = require('request');
 var cheerio = require('cheerio');
 var fs = require('fs');
 var readline = require('readline');
 
-hello2(hello);
+var fileName = "mwc_list.txt";
+var absolute_url = "https://www.mobileworldcongress.com/exhibition/2018-exhibitors/page/";
+var absolute_param = "?country=1834";
+var url = "";
+var j = 1;
 
-function getPhoneNumbers() {
-    var fileName = 'companies.txt';
-    var absolute_url = "https://www.mobileworldcongress.com/exhibitor/";
-    var url = "";
+for (var i = 1; i <= 6; i++) {
+    (function(i) {
+        url = absolute_url + i + absolute_param;
 
-    var reader = readline.createInterface({
-        input: fs.createReadStream(fileName)
-    });
-
-    reader.on('line', function(line) {
-        url = absolute_url + line;
         request(url, function(err, res, body) {
-            if (err) throw err;
+            if(err) throw err;
 
             var $ = cheerio.load(body);
-            fs.appendFileSync('infos.txt', "company_name: " + line);
-            $("div.mod-content p").map(function() {
-                var text = $(this).text().toString().trim();
-                if (text.startsWith("+82"))
-                    fs.appendFileSync('infos.txt', ", phone: " + text);
+            $('div.box-title').map(function() {
+                fs.appendFileSync(fileName, j++ + ": " + $(this).text() + "\r\n");
             });
-
-            var text = $("a.web-site-link").attr("href");
-            if (text != null) {
-                text = String(text);
-                if (text.length !== 0)
-                    fs.appendFileSync('infos.txt', ", site: " + text);
-            }
-            fs.appendFileSync('infos.txt', "\n");
         });
-    });
-}
-
-//getPhoneNumbers();
-getNames();
+    })(i);
 
 
-
-function getNames() {
-    var absolute_url = "https://www.mobileworldcongress.com/exhibition/2018-exhibitors/";
-    var url = "";
-    var companyNames = [];
-    var i = 1;
-
-    for (i = 1; i <= 6; i++) {
-        (function(i) {
-            url = absolute_url + "page/" + i + "/?country=1834";
-
-            request(url, function(err, res, body) {
-                if (err) throw err;
-
-                var $ = cheerio.load(body);
-
-                $("div.box-title").map(function() {
-                    fs.appendFileSync('companies.txt', $(this).text().trim() + "\n");
-                });
-            });
-        })(i);
-    }
 }

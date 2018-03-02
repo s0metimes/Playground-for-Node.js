@@ -1,116 +1,6 @@
-Cubroid Inc.
-Daegu Technopark (Mobile Technology Convergence Center)
-Daliworks Inc.
-DASAN Zhone Solutions
-DICA (Daejeon Information & Culture Industry Promotion Agency)
-DoubleMe, Inc.
-E-tech
-EC3 co.,ltd
-EMW Co.,Ltd
-ETRI(5G Giga Service Research Laboratory)
-EUCAST
-Everspin
-Exosphere, Inc.
-Fairip
-FAKE EYES CO, LTD
-FARMSKIN
-Fieldsolution Co., Ltd.
-Fourthlink Inc.
-Gamma Nu, Inc.
-GCCEI (Gyeonggi Center for Creative Economic Innovation)
-GCI Inc.
-GLS Co., Ltd
-Gong Gam Tech (VOISATCH)
-GOQUAL Inc.
-GPTree Inc
-Graphene Square Inc.
-Green Optics Co., Ltd.
-Green Power Electronics Co., Ltd.
-Gwang Jin enterprise
-Gwangju Information and Culture Industry Promotion Agency
-H&BiT CO.,LTD.
-Haesung Optics
-HANCOM Inc
-HANCOM INTERFREE
-Hancom MDS Inc.
-HANDYSOFT, Inc.
-Hidden Track Co,.Ltd.
-HOBB
-HoloDigilog Human Media Research Center (HoloDigilog)
-Incheon Business Industry Technopark
-INFOMARK Co.,Ltd
-Innertron, Inc.
-INNOPIA Technologies, Inc.
-InnoPlayLab
-INNOPOLIS Foundation
-Inspower Co.,Ltd
-iPlateia
-IRISYS Co.,Ltd.
-J&C GLOBAL CO.,LTD
-JongroMedical.Co.,Ltd
-JUNGGAM Co.,Ltd.
-Juni Korea Co., Ltd.
-KAIT(Korea Association for ICT Promotion)
-KAONMEDIA
-KDLAB Inc.
-Kisan Telecom Co. Ltd
-KISED
-KISED (SEOUL CCEI)
-KOMACHINE
-Korea ICT Association (KICTA)
-Korea Institute of Startup & Entrepreneurship Development(KISED) at 4YFN
-KOTRA
-KRF Co., LTd
-KT
-KYUNGPOOK NAT’L UNIVERSITY SMART VENTURE CAMPUS
-KYUNGPOOK NATIONAL UNIVERSITY – CREATIVE FACTORY
-LEEDEYEON, INC.
-Letinar Co,. Ltd.
-LG Electronics Mobile Communications Company
-LiBEST Inc.
-Lillycover, Inc
-Lineable Inc.
-Lingerwater
-LINKFLOW
-Lui technology, Inc.
-LUXROBO co.ltd.
-Maetel Co., Ltd.
-Magconn Inc.
-Magpie Tech
-MANGOALSB Co., Ltd.
-Mavlux
-Maxst co.,ltd
-Medicore Co., Ltd.
-MINDs Lab Inc.
-MINTROBOT Co., Ltd.
-MOBILEDOCTOR, CO., LTD.
-Monster STUDIO
-MUST Games
-NARU STUDIO Inc.
-Nasmedia
-National IT Industry Promotion Agency(NIPA)
-Ncube
-Nesslab
-Network Korea Co., Ltd
-Norma Inc.
-OctatcO Co.,Ltd
-Omni C&S Inc.
-Omnisystem Co., Ltd
-ONESOFTDIGM CO., LTD.
-PARKELICT
-PAYCOQ
-PAYCOQ at 4YFN
-PHYCHIPS Inc.
-Point Mobile Co., Ltd.
-Power Silicon
-POWERVOICE Co., Ltd.
-PTech Co.,
-PTINSIGHT
-Qucell
-RaonSecure
-RFM Wireless Co., Ltd.
-RIDUS
-ROZETATECH
+YOO KYOUNG CO LTD
+ZIP style
+ZIPDOC Inc.
 RSUPPORT Co.,LTD
 Samsung Electronics Co Ltd (IM Division)
 Samsung Electronics Networks
@@ -151,8 +41,126 @@ WISEnut, Inc.
 Y Tech Co.,Ltd
 Yeon Systems
 YOLK
-YOO KYOUNG CO LTD
-ZIPDOC Inc.
+LUXROBO co.ltd.
+Maetel Co., Ltd.
+Magconn Inc.
+Magpie Tech
+MANGOALSB Co., Ltd.
+Mavlux
+Maxst co.,ltd
+Medicore Co., Ltd.
+MINDs Lab Inc.
+MINTROBOT Co., Ltd.
+MOBILEDOCTOR, CO., LTD.
+Monster STUDIO
+MUST Games
+NARU STUDIO Inc.
+Nasmedia
+National IT Industry Promotion Agency(NIPA)
+Ncube
+Nesslab
+Network Korea Co., Ltd
+Norma Inc.
+OctatcO Co.,Ltd
+Omni C&S Inc.
+Omnisystem Co., Ltd
+ONESOFTDIGM CO., LTD.
+PARKELICT
+PAYCOQ
+PAYCOQ at 4YFN
+PHYCHIPS Inc.
+Point Mobile Co., Ltd.
+Power Silicon
+POWERVOICE Co., Ltd.
+PTech Co.,
+PTINSIGHT
+Qucell
+Quick pay
+QVITZ INC.
+RaonSecure
+RFM Wireless Co., Ltd.
+RIDUS
+ROZETATECH
+HANDYSOFT, Inc.
+Hidden Track Co,.Ltd.
+HOBB
+HoloDigilog Human Media Research Center
+Incheon Business Industry Technopark
+INFOMARK Co.,Ltd
+Innertron, Inc.
+INNOPIA Technologies, Inc.
+InnoPlayLab
+INNOPOLIS Foundation
+Inspower Co.,Ltd
+IRISYS Co.,Ltd.
+J&C GLOBAL CO.,LTD
+JongroMedical.Co.,Ltd
+JUNGGAM Co.,Ltd.
+Juni Korea Co., Ltd.
+KAIT(Korea Association for ICT Promotion)
+KAONMEDIA
+KDLAB Inc.
+Kisan Telecom Co. Ltd
+KISED
+KISED (SEOUL CCEI)
+KOMACHINE
+Korea ICT Association (KICTA)
+Korea Institute of Startup & Entrepreneurship Development(KISED) at 4YFN
+KOTRA
+KRF Co., LTd
+KT
+KYUNGPOOK NAT’L UNIVERSITY SMART VENTURE CAMPUS
+KYUNGPOOK NATIONAL UNIVERSITY – CREATIVE FACTORY
+LEEDEYEON, INC.
+Letinar Co,. Ltd.
+LG Electronics Mobile Communications Company
+LiBEST Inc.
+Lillycover, Inc
+Lineable Inc.
+Lingerwater
+LINKFLOW
+Lui technology, Inc.
+Lukken
+Contela, Inc.
+CORESIGHT Co., LTD
+CrucialTec. Co. LTD
+Cubroid Inc.
+Daegu Technopark (Mobile Technology Convergence Center)
+Daliworks Inc.
+DAREUNKOREA Inc
+DASAN Zhone Solutions
+DICA (Daejeon Information & Culture Industry Promotion Agency)
+DoubleMe, Inc.
+E-tech
+EC3 co.,ltd
+Electronics & Telecommunications Research Institute (ETRI)
+EMW Co.,Ltd
+ETRI(5G Giga Service Research Laboratory)
+EUCAST
+Everspin
+Exosphere, Inc.
+Fairip
+FAKE EYES CO, LTD
+FARMSKIN
+Fieldsolution Co., Ltd.
+Fourthlink Inc.
+Gamma Nu, Inc.
+GCCEI (Gyeonggi Center for Creative Economic Innovation)
+GCI Inc.
+GLS Co., Ltd
+Gong Gam Tech (VOISATCH)
+GOQUAL Inc.
+GPTree Inc
+Graphene Square Inc.
+Green Optics Co., Ltd.
+Green Power Electronics Co., Ltd.
+Gwang Jin enterprise
+Gwangju Information and Culture Industry Promotion Agency
+H&BiT CO.,LTD.
+Haesung Optics
+HANCOM Inc
+HANCOM INTERFREE
+Hancom MDS Inc.
 #iSharingSoft Co..Ltd
 #Smart Content Pavilion
 111%
@@ -172,9 +180,11 @@ Anipen Inc.
 Apposter Inc.
 asvals.Ltd
 AVAD Co., Ltd
+Awesome Bros Synergy
 Bamhaneul Geurimjari. Ltd.
 baro
 BEACONYX Inc.
+BIGpictures
 BIOSMART CO., LTD
 BIPA [Busan IT Industry Promotion Agency]
 Bisecu
@@ -185,11 +195,9 @@ BusinessOn Communication
 Buzzvil
 CARET GAMES
 CGTECH CO., LTD
+Changdaetech
 Circulus Inc.
 CLAIR, Inc.
 CleverLogic Co., Ltd.
 Cloudike Inc
 COBL Co. Ltd
-Contela, Inc.
-CORESIGHT Co., LTD
-CrucialTec. Co. LTD

@@ -1,8 +1,46 @@
 YOO KYOUNG CO LTD
 ZIP style
-ZIPDOC Inc.
-RSUPPORT Co.,LTD
-Samsung Electronics Co Ltd (IM Division)
+ZIPDOC Inc
+Incheon Business Industry Technopark
+INFOMARK Co.,Ltd
+Innertron, Inc.
+INNOPIA Technologies, Inc.
+InnoPlayLab
+INNOPOLIS Foundation
+Inspower Co.,Ltd
+IRISYS Co.,Ltd.
+iSharingSoft Co..Ltd
+J&C GLOBAL CO.,LTD
+Jongromedical.Co.Ltd
+JUNGGAM Co.,Ltd.
+Juni Korea Co., Ltd.
+KAIT(Korea Association for ICT Promotion)
+KAONMEDIA
+KDLAB Inc.
+Kisan Telecom Co., Ltd.
+KISED
+KISED (SEOUL CCEI)
+KOMACHINE
+Korea ICT Association (KICTA)
+Korea Institute of Startup & Entrepreneurship Development(KISED) at 4YFN
+KOTRA
+KRF Co., LTd
+KT
+KYUNGPOOK NAT’L UNIVERSITY SMART VENTURE CAMPUS
+KYUNGPOOK NATIONAL UNIVERSITY – CREATIVE FACTORY
+LEEDEYEON, INC.
+Letinar Co,. Ltd.
+Letinar Co.. Ltd. at 4YFN
+LG Electronics Mobile Communications Company
+LiBEST Inc.
+Lillycover
+Lineable Inc.
+Lingerwater
+LINKFLOW
+Lui technology, Inc.
+Lukken
+LUXROBO Co., Ltd.
+MAETEL
 Samsung Electronics Networks
 SANCHEONG CO., LTD.
 SECOND GROUND Inc.
@@ -12,6 +50,7 @@ SK hynix Inc.
 SK Telecom
 Small&medium Business Corporation-Youth Startup Academy
 SMARF
+Smart Content Pavilion
 SMART WELLNESS
 Smarthan Co., Ltd.
 Smartsound Corporation
@@ -34,6 +73,7 @@ ulalaLAB
 Unito Entertainment co,. Ltd.
 VIRFIT Corp.
 VisualCamp
+VOIXATCH
 VUiDEA,INC
 WEARABLE HEALTHCARE INC.
 WEVERCOMM CO., LTD.
@@ -41,8 +81,6 @@ WISEnut, Inc.
 Y Tech Co.,Ltd
 Yeon Systems
 YOLK
-LUXROBO co.ltd.
-Maetel Co., Ltd.
 Magconn Inc.
 Magpie Tech
 MANGOALSB Co., Ltd.
@@ -59,8 +97,8 @@ Nasmedia
 National IT Industry Promotion Agency(NIPA)
 Ncube
 Nesslab
-Network Korea Co., Ltd
-Norma Inc.
+Network Korea Co., Ltd.
+NORMA Co., Ltd.
 OctatcO Co.,Ltd
 Omni C&S Inc.
 Omnisystem Co., Ltd
@@ -76,53 +114,13 @@ PTech Co.,
 PTINSIGHT
 Qucell
 Quick pay
-QVITZ INC.
+QVITZ Inc.
 RaonSecure
 RFM Wireless Co., Ltd.
 RIDUS
 ROZETATECH
-HANDYSOFT, Inc.
-Hidden Track Co,.Ltd.
-HOBB
-HoloDigilog Human Media Research Center
-Incheon Business Industry Technopark
-INFOMARK Co.,Ltd
-Innertron, Inc.
-INNOPIA Technologies, Inc.
-InnoPlayLab
-INNOPOLIS Foundation
-Inspower Co.,Ltd
-IRISYS Co.,Ltd.
-J&C GLOBAL CO.,LTD
-JongroMedical.Co.,Ltd
-JUNGGAM Co.,Ltd.
-Juni Korea Co., Ltd.
-KAIT(Korea Association for ICT Promotion)
-KAONMEDIA
-KDLAB Inc.
-Kisan Telecom Co. Ltd
-KISED
-KISED (SEOUL CCEI)
-KOMACHINE
-Korea ICT Association (KICTA)
-Korea Institute of Startup & Entrepreneurship Development(KISED) at 4YFN
-KOTRA
-KRF Co., LTd
-KT
-KYUNGPOOK NAT’L UNIVERSITY SMART VENTURE CAMPUS
-KYUNGPOOK NATIONAL UNIVERSITY – CREATIVE FACTORY
-LEEDEYEON, INC.
-Letinar Co,. Ltd.
-LG Electronics Mobile Communications Company
-LiBEST Inc.
-Lillycover, Inc
-Lineable Inc.
-Lingerwater
-LINKFLOW
-Lui technology, Inc.
-Lukken
-Contela, Inc.
-CORESIGHT Co., LTD
+RSUPPORT Co.,LTD
+Samsung Electronics Co Ltd (IM Division)
 CrucialTec. Co. LTD
 Cubroid Inc.
 Daegu Technopark (Mobile Technology Convergence Center)
@@ -133,8 +131,8 @@ DICA (Daejeon Information & Culture Industry Promotion Agency)
 DoubleMe, Inc.
 E-tech
 EC3 co.,ltd
-Electronics & Telecommunications Research Institute (ETRI)
 EMW Co.,Ltd
+ETRI (Electronics and Telecommunications Research Institute)
 ETRI(5G Giga Service Research Laboratory)
 EUCAST
 Everspin
@@ -143,12 +141,10 @@ Fairip
 FAKE EYES CO, LTD
 FARMSKIN
 Fieldsolution Co., Ltd.
-Fourthlink Inc.
 Gamma Nu, Inc.
 GCCEI (Gyeonggi Center for Creative Economic Innovation)
-GCI Inc.
+GCI INC
 GLS Co., Ltd
-Gong Gam Tech (VOISATCH)
 GOQUAL Inc.
 GPTree Inc
 Graphene Square Inc.
@@ -161,30 +157,32 @@ Haesung Optics
 HANCOM Inc
 HANCOM INTERFREE
 Hancom MDS Inc.
-#iSharingSoft Co..Ltd
-#Smart Content Pavilion
-111%
-3.14 Co..Ltd.
+HANDYSOFT, Inc.
+Hidden Track Co,.Ltd.
+HOBB
+HoloDigilog Human Media Research Center
+3.14 Co., Ltd.
 8beat Co., Ltd
-abenecel Inc
+abenecel Inc.
 Access Mobile Co.,Ltd
 ACCUVER/INNOWIRELESS
 Ace Technologies Corp.
 ACEWAVETECH CO,. LTD
 Airbroad
 AIRSOUND INC.
+AKN INC.
 AMO Lab
 AMOSENSE Co., Ltd.
 analogue plus Co.,Ltd
 Anipen Inc.
 Apposter Inc.
 asvals.Ltd
-AVAD Co., Ltd
+AVAD Co., Ltd.
 Awesome Bros Synergy
 Bamhaneul Geurimjari. Ltd.
 baro
 BEACONYX Inc.
-BIGpictures
+BIG pictures
 BIOSMART CO., LTD
 BIPA [Busan IT Industry Promotion Agency]
 Bisecu
@@ -201,3 +199,207 @@ CLAIR, Inc.
 CleverLogic Co., Ltd.
 Cloudike Inc
 COBL Co. Ltd
+Contela, Inc.
+CORESIGHT Co., LTD
+ZIP style
+ZIPDOC Inc
+Magpie Tech
+MANGOALSB Co., Ltd.
+Mavlux
+Maxst co.,ltd
+Medicore Co., Ltd.
+MINDs Lab Inc.
+MINTROBOT Co., Ltd.
+MOBILEDOCTOR, CO., LTD.
+MUST Games
+NARU STUDIO Inc.
+Nasmedia
+National IT Industry Promotion Agency(NIPA)
+Ncube
+Nesslab
+Network Korea Co., Ltd.
+NORMA Co., Ltd.
+OCTATCO.CO.,LTD
+Omni C&S Inc.
+Omnisystem Co., Ltd
+ONESOFTDIGM CO., LTD.
+PARKELICT
+PAYCOQ
+PAYCOQ at 4YFN
+PHYCHIPS Inc.
+Point Mobile Co., Ltd.
+Power Silicon
+POWERVOICE Co., Ltd.
+PTech Co.,
+PTINSIGHT
+Qucell
+QuickPay
+QVITZ Inc.
+Raonsecure Co., Ltd.
+Real iDentity, Co., Ltd.
+RFM Wireless Co.,Ltd.
+RIDUS
+ROZETATECH
+RSUPPORT Co.,LTD
+Samsung Electronics Co Ltd (IM Division)
+Samsung Electronics Networks
+CORESIGHT Co., LTD
+CrucialTec. Co. LTD
+Cubroid Inc.
+Daejeon Information & Culture Industry Promotion Agency
+Daliworks Inc.
+DAREUNKOREA Inc.
+DASAN Zhone Solutions
+DoubleMe, Inc.
+E-tech
+EC3 co.,ltd
+EMW Co.,Ltd
+ETRI (Electronics and Telecommunications Research Institute)
+ETRI(5G Giga Service Research Laboratory)
+EUCAST
+Everspin
+Exosphere, Inc.
+Fairip
+FAKE EYES CO, LTD
+FARMSKIN
+Fieldsolution Co., Ltd.
+Gamma Nu, Inc.
+GCCEI (Gyeonggi Center for Creative Economic Innovation)
+GCI INC
+GLS Co., Ltd
+GOQUAL Inc.
+GPTree Inc
+Graphene Square Inc.
+Green Optics Co., Ltd.
+Green Power Electronics Co., Ltd.
+GwangJin entterprise
+Gwangju Information and Culture Industry Promotion Agency
+H&BiT CO.,LTD.
+Haesung Optics
+HANCOM Inc
+HANCOM INTERFREE
+Hancom MDS Inc.
+HANDYSOFT, Inc.
+Hidden Track Co,.Ltd.
+HOBB
+HoloDigilog Human Media Research Center
+SANCHEONG CO., LTD.
+SECOND GROUND Inc.
+SEONTECH
+Sigma Delta Technologies Inc.
+SK hynix Inc.
+SK Telecom
+Small&medium Business Corporation-Youth Startup Academy
+SMARF
+Smart Content Pavilion
+SMART WELLNESS
+Smarthan Co., Ltd.
+Smartsound Corporation
+Smartventure Campus
+SOLiD Inc.
+Solmitech Co., Ltd.
+SOS Lab. Co., Ltd.
+Spacosa Corporation
+STARs tech Co,. Ltd.
+Stealth Solution Co,Ltd
+Suprema Inc.
+Swan Electronics Co., Ltd.
+TAEYANG I.S CO., LTD
+Tangram Factory Inc.
+TELEPASEE
+TwoEyes Tech, Inc.
+TWOUZ Inc.
+Ufirst Inc.
+ulalaLAB
+Unito Entertainment co,. Ltd.
+VIRFIT Corp.
+VisualCamp
+VOIXATCH
+VUiDEA,INC
+WEARABLE HEALTHCARE INC.
+WEVERCOMM CO., LTD.
+WISEnut, Inc.
+Y Tech Co.,Ltd
+Yeon Systems
+YOLK
+YOO KYOUNG CO LTD
+ICT DEVICE LAB
+Incheon Business Industry Technopark
+INFOMARK Co.,Ltd
+Innertron, Inc.
+INNOPIA Technologies, Inc.
+InnoPlayLab
+INNOPOLIS Foundation
+Inspower Co.,Ltd
+IRISYS Co.,Ltd.
+iSharingSoft Co..Ltd
+J&C GLOBAL CO.,LTD
+Jongromedical.Co.Ltd
+JUNGGAM Co.,Ltd.
+Juni Korea Co., Ltd.
+KAIT(Korea Association for ICT Promotion)
+KAONMEDIA
+KDLAB Inc.
+Kisan Telecom Co., Ltd.
+KISED
+KOMACHINE
+Korea ICT Association (KICTA)
+Korea Institute of Startup & Entrepreneurship Development(KISED) at 4YFN
+KOTRA
+KRF Co., LTd
+KT
+KYUNGPOOK NAT’L UNIVERSITY SMART VENTURE CAMPUS
+KYUNGPOOK NATIONAL UNIVERSITY – CREATIVE FACTORY
+LEEDEYEON, INC.
+Letinar Co,. Ltd.
+LetinAR Co., Ltd. at 4YFN
+LG Electronics Mobile Communications Company
+LiBEST Inc.
+Lillycover
+Linger Water
+LINKFLOW
+Lui technology, Inc.
+Lukken
+LUXROBO Co., Ltd.
+MAETEL
+Magconn Inc.
+3.14 Co., Ltd.
+8beat Co., Ltd
+abenecel Inc.
+Access Mobile Co.,Ltd
+ACCUVER/INNOWIRELESS
+Ace Technologies Corp.
+ACEWAVETECH CO,. LTD
+Airbroad
+AIRSOUND INC.
+AKN INC.
+AMO Lab
+AMOSENSE Co., Ltd.
+analogue plus Co.,Ltd
+Anipen Inc.
+Apposter Inc.
+asvals.Ltd
+AVAD Co., Ltd.
+Awesome Bros Synergy
+Bamhaneul Geurimjari. Ltd.
+baro
+BEACONYX Inc.
+BIG pictures
+BIOSMART CO., LTD
+BIPA [Busan IT Industry Promotion Agency]
+Bisecu
+BLUEWAVETE CO.,Ltd
+BONABANK CO., Ltd
+BrilliantTS
+BusinessOn Communication
+Buzzvil
+CARET GAMES
+CGTECH CO., LTD
+Challenge! K-Startup
+Changdaetech
+Circulus
+CLAIR, Inc.
+CleverLogic Co., Ltd.
+Cloudike Inc
+COBL Co. Ltd
+Contela, Inc.

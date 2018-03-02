@@ -1,0 +1,202 @@
+1: ZIP style
+2: ZIPDOC Inc
+3: ICT DEVICE LAB
+4: Incheon Business Industry Technopark
+5: INFOMARK Co.,Ltd
+6: Innertron, Inc.
+7: INNOPIA Technologies, Inc.
+8: InnoPlayLab
+9: INNOPOLIS Foundation
+10: Inspower Co.,Ltd
+11: IRISYS Co.,Ltd.
+12: iSharingSoft Co..Ltd
+13: J&C GLOBAL CO.,LTD
+14: Jongromedical.Co.Ltd
+15: JUNGGAM Co.,Ltd.
+16: Juni Korea Co., Ltd.
+17: KAIT(Korea Association for ICT Promotion)
+18: KAONMEDIA
+19: KDLAB Inc.
+20: Kisan Telecom Co., Ltd.
+21: KISED
+22: KOMACHINE
+23: Korea ICT Association (KICTA)
+24: Korea Institute of Startup & Entrepreneurship Development(KISED) at 4YFN
+25: KOTRA
+26: KRF Co., LTd
+27: KT
+28: KYUNGPOOK NAT’L UNIVERSITY SMART VENTURE CAMPUS
+29: KYUNGPOOK NATIONAL UNIVERSITY – CREATIVE FACTORY
+30: LEEDEYEON, INC.
+31: Letinar Co,. Ltd.
+32: LetinAR Co., Ltd. at 4YFN
+33: LG Electronics Mobile Communications Company
+34: LiBEST Inc.
+35: Lillycover
+36: Linger Water
+37: LINKFLOW
+38: Lui technology, Inc.
+39: Lukken
+40: LUXROBO Co., Ltd.
+41: MAETEL
+42: Magconn Inc.
+43: 3.14 Co., Ltd.
+44: 8beat Co., Ltd
+45: abenecel Inc.
+46: Access Mobile Co.,Ltd
+47: ACCUVER/INNOWIRELESS
+48: Ace Technologies Corp.
+49: ACEWAVETECH CO,. LTD
+50: Airbroad
+51: AIRSOUND INC.
+52: AKN INC.
+53: AMO Lab
+54: AMOSENSE Co., Ltd.
+55: analogue plus Co.,Ltd
+56: Anipen Inc.
+57: Apposter Inc.
+58: asvals.Ltd
+59: AVAD Co., Ltd.
+60: Awesome Bros Synergy
+61: Bamhaneul Geurimjari. Ltd.
+62: baro
+63: BEACONYX Inc.
+64: BIG pictures
+65: BIOSMART CO., LTD
+66: BIPA [Busan IT Industry Promotion Agency]
+67: Bisecu
+68: BLUEWAVETE CO.,Ltd
+69: BONABANK CO., Ltd
+70: BrilliantTS
+71: BusinessOn Communication
+72: Buzzvil
+73: CARET GAMES
+74: CGTECH CO., LTD
+75: Challenge! K-Startup
+76: Changdaetech
+77: Circulus
+78: CLAIR, Inc.
+79: CleverLogic Co., Ltd.
+80: Cloudike Inc
+81: COBL Co. Ltd
+82: Contela, Inc.
+83: SANCHEONG CO., LTD.
+84: SECOND GROUND Inc.
+85: SEONTECH
+86: Sigma Delta Technologies Inc.
+87: SK hynix Inc.
+88: SK Telecom
+89: Small&medium Business Corporation-Youth Startup Academy
+90: SMARF
+91: Smart Content Pavilion
+92: SMART WELLNESS
+93: Smarthan Co., Ltd.
+94: Smartsound Corporation
+95: Smartventure Campus
+96: SOLiD Inc.
+97: Solmitech Co., Ltd.
+98: SOS Lab. Co., Ltd.
+99: Spacosa Corporation
+100: STARs tech Co,. Ltd.
+101: Stealth Solution Co,Ltd
+102: Suprema Inc.
+103: Swan Electronics Co., Ltd.
+104: TAEYANG I.S CO., LTD
+105: Tangram Factory Inc.
+106: TELEPASEE
+107: TwoEyes Tech, Inc.
+108: TWOUZ Inc.
+109: Ufirst Inc.
+110: ulalaLAB
+111: Unito Entertainment co,. Ltd.
+112: VIRFIT Corp.
+113: VisualCamp
+114: VOIXATCH
+115: VUiDEA,INC
+116: WEARABLE HEALTHCARE INC.
+117: WEVERCOMM CO., LTD.
+118: WISEnut, Inc.
+119: Y Tech Co.,Ltd
+120: Yeon Systems
+121: YOLK
+122: YOO KYOUNG CO LTD
+123: Magpie Tech
+124: MANGOALSB Co., Ltd.
+125: Mavlux
+126: Maxst co.,ltd
+127: Medicore Co., Ltd.
+128: MINDs Lab Inc.
+129: MINTROBOT Co., Ltd.
+130: MOBILEDOCTOR, CO., LTD.
+131: MUST Games
+132: NARU STUDIO Inc.
+133: Nasmedia
+134: National IT Industry Promotion Agency(NIPA)
+135: Ncube
+136: Nesslab
+137: Network Korea Co., Ltd.
+138: NORMA Co., Ltd.
+139: OCTATCO.CO.,LTD
+140: Omni C&S Inc.
+141: Omnisystem Co., Ltd
+142: ONESOFTDIGM CO., LTD.
+143: PARKELICT
+144: PAYCOQ
+145: PAYCOQ at 4YFN
+146: PHYCHIPS Inc.
+147: Point Mobile Co., Ltd.
+148: Power Silicon
+149: POWERVOICE Co., Ltd.
+150: PTech Co.,
+151: PTINSIGHT
+152: Qucell
+153: QuickPay
+154: QVITZ Inc.
+155: Raonsecure Co., Ltd.
+156: Real iDentity, Co., Ltd.
+157: RFM Wireless Co.,Ltd.
+158: RIDUS
+159: ROZETATECH
+160: RSUPPORT Co.,LTD
+161: Samsung Electronics Co Ltd (IM Division)
+162: Samsung Electronics Networks
+163: CORESIGHT Co., LTD
+164: CrucialTec. Co. LTD
+165: Cubroid Inc.
+166: Daejeon Information & Culture Industry Promotion Agency
+167: Daliworks Inc.
+168: DAREUNKOREA Inc.
+169: DASAN Zhone Solutions
+170: DoubleMe, Inc.
+171: E-tech
+172: EC3 co.,ltd
+173: EMW Co.,Ltd
+174: ETRI (Electronics and Telecommunications Research Institute)
+175: ETRI(5G Giga Service Research Laboratory)
+176: EUCAST
+177: Everspin
+178: Exosphere, Inc.
+179: Fairip
+180: FAKE EYES CO, LTD
+181: FARMSKIN
+182: Fieldsolution Co., Ltd.
+183: Gamma Nu, Inc.
+184: GCCEI (Gyeonggi Center for Creative Economic Innovation)
+185: GCI INC
+186: GLS Co., Ltd
+187: GOQUAL Inc.
+188: GPTree Inc
+189: Graphene Square Inc.
+190: Green Optics Co., Ltd.
+191: Green Power Electronics Co., Ltd.
+192: GwangJin entterprise
+193: Gwangju Information and Culture Industry Promotion Agency
+194: H&BiT CO.,LTD.
+195: Haesung Optics
+196: HANCOM Inc
+197: HANCOM INTERFREE
+198: Hancom MDS Inc.
+199: HANDYSOFT, Inc.
+200: Hidden Track Co,.Ltd.
+201: HOBB
+202: HoloDigilog Human Media Research Center
