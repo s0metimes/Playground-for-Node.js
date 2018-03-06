@@ -21,6 +21,8 @@
 import async from "async";
 
 /*
+    Async.series (순차 실행)
+
     Async.series {
        [ 태스크1, 태스크2, 태스크3... ],
        완료 콜백(err, results) { }
@@ -46,39 +48,214 @@ import async from "async";
         // 성공
         // results 에는 각 태스크들의 결과 값이 들어있다.
     }
+
+
+
+    *** 참고로 callback 은 void 를 return 하도록 해야한다.
+
+    Internal modules : namespaces
+    External modules : modules
 */
 
-interface CallbackInterface {
-    (err: Error | null, result: string | null): void;
-}
-
-// 예제
-let task1 = (callback: CallbackInterface) => {
-    callback(null, "task1");
-}
-
-let task2 = (callback: CallbackInterface) => {
-    callback(null, "task2");
-}
-
-let task3 = (callback: CallbackInterface) => {
-    callback(null, "task3");
+// Internal module : Series
+namespace Series {
+    type Callback = (err: Error | null, result: string | null) => void;
+    
+    // 예제
+    export let task1 = (callback: Callback) => {
+        callback(null, "task1");
+    }
+    
+    export let task2 = (callback: Callback) => {
+        callback(null, "task2");
+    }
+    
+    export let task3 = (callback: Callback) => {
+        callback(null, "task3");
+    }
 }
 
 async.series(
-    [
-        task1,
-        task2,
-        task3
-    ],
+    [Series.task1, Series.task2, Series.task3],
     // results 가 string array 혹은 null 을
     // 반환하기 때문에 any 로 써줘야한다.
-    function(err: any, results: any) {
+    function(err, results) {
         if ( err ) {
             console.log(new Error("FUCKKKKK"));
             return;
-        } 
-        console.log(results.toString());
+        }
+
+        if(!results) return;
+        console.log("Series: " + results.toString());
         
     }
 );
+
+/*
+    async.waterfall (순차 실행)
+    
+    dynamic programming 을 계획하고 실행하는 것에 최적일듯 싶다.
+*/
+
+namespace WaterFall {
+    type Callback = (err: Error | null, ...args: any[]) => void;
+    
+    export let task1 = (callback: Callback) => {
+        callback(null, "a");
+    }
+
+    export let task2 = (arg1: any, callback: Callback) => {
+        let a = arg1 + "WOW";
+        let b = "how";
+        callback(null, a, b);
+    }
+
+    export let task3 = (arg1: any, arg2: any, callback: Callback) => {
+        let result = arg1 + arg2;
+        callback(null, result); // 여기 result 가 곧 하단의 results 이다.
+    }
+}
+
+async.waterfall (
+    [WaterFall.task1, WaterFall.task2, WaterFall.task3],
+    function(err, results) {
+        if(err) {
+            console.log(new Error("WATERFALLLLL"));
+            return;
+        }
+        
+        if(!results) return;
+        console.log("WaterFall: " + results.toString());
+        
+    }
+);
+
+/*
+    async.parallel TODO: (동시 실행 : Round Robin 으로 실행하는 것이 아닐까?)
+    
+    사용 느낌은 async.series 와 동일하며, 먼저 끝난 result 가 완료 구문에서 실행된다.
+*/
+
+
+/**
+ * 콜렉션과 비동기 동작
+ * 
+ * 콜렉션에 들어가 있는 만큼 비동기가 동작하게 된다.
+ * 
+ * EX.
+ * 다수의 파일을 비동기 API 로 읽기
+ * 다수의 파일을 비동기 API로 존재하는지 확인하기
+ * 
+ * 이는 사이트를 좀 더 참고해서 확인해보자.
+ */
+
+ /*
+    async.each
+ */
+/*
+async.each(array, 
+    (item, callback) => {
+    // 배열 내 항목 item 을 사용하는 비동기 동작
+    return callback();
+    }, 
+    (err) => {
+    //async.each 완료
+    
+    if (err) return console.log(err);
+    
+    console.log("success");
+    
+});
+*/
+/**
+ * Promise
+ * 
+ * 비동기 동작의 흐름 제어. 모듈 설치가 필요 없음 (ES6에 추가).
+ */
+
+// Promise 객체 생성
+new Promise(function() {
+// 비동기 동작
+});
+
+/**
+ * Promise 상태
+ * 
+ * pending: 동작 완료 전
+ * fullfilled: 비동기 동작 성공
+ * rejected: 동작 실패
+ * 
+ *  성공적으로 완료 : fullfill 호출
+ *  에러 상황 : reject 호출
+ * 
+ * Promise 이후의 동작 : then
+ * 
+ * (프로미스 객체).then(fullfilled, rejected) {
+ *      function fullfilled(result) {
+ *          // fullfilled 상태일 때의 동작
+ *      }
+ *      function rejected(err) {
+ *          // rejected 상태일 때의 동작
+ *      }
+ * }
+ */
+// Promise 를 사용하는 태스크
+let success: boolean = true;
+
+let promiseTask = () => {
+    return new Promise((fullfill, reject) => {
+        if (success)
+            fullfill("success");
+        else
+            reject("error");
+    });
+}
+
+let fullfilled = (result: any) => {
+    console.log("Promise: " + result);
+} 
+
+let rejected = (error: Error) => {
+    console.log("Promise: " + error);
+}
+promiseTask().then(fullfilled, rejected);
+// 이때 promise 를 쭉 이어서 처리하도록 한 후 마지막 catch 에서 
+// rejected 를 한번에 처리하는 방법도 있다.
+
+
+
+/**
+ * async / await
+ * 
+ * async 함수가 호출되어 졌을 때, 이 함수는 Promise 를 반환한다.
+ * async 함수가 값을 리턴하면 Promise 는 반환된 값을 갖고 resolve될 것이다. 
+ * (resolve === fullfill)
+ */
+/*
+
+    function getProcessedData(url) {
+        return downloadData(url) // returns a promise
+            .catch(e => {
+                return downloadFallbackData(url) // returns a promise
+            })
+            .then(v => {
+                return processDataInWorker(v); // returns a promise
+            });
+    };
+
+    // ...
+    // 위 코드가 하단 코드처럼 변환되서 처리할 수 있다.
+    // 코드를 보면 알겠지만 아래가 훠어어어어어얼씬 깔끔하다.
+    // 주석도 필요없다.
+    // ...
+
+    async function getProcessedData(url) {
+        let v;
+        try {
+            v = await downloadData(url);
+        } catch (e) {
+            v = await downloadFallbackData(url);
+        }
+        return processDataInWorker(v);
+    };
+*/
