@@ -1,0 +1,16 @@
+{
+  "name": "typescript",
+  "version": "1.0.0",
+  "description": "Typescript studying",
+  "main": "greeter.js",
+  "scripts": {
+    "test": "no test found"
+  },
+  "author": "s0metimes",
+  "license": "ISC",
+  "dependencies": {
+    "@types/async": "^2.0.47",
+    "async": "^2.6.0",
+    "bluebird": "^3.5.1"
+  }
+}
